@@ -14,3 +14,5 @@ jhgjhgjgjhgjg<br>
 [google](http://www.google.com/)
 
 [測試](1.txt)
+
+![測試](a.png)
